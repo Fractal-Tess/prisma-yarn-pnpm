@@ -1,0 +1,14 @@
+[35mroot:dev[0m: cache hit, replaying output [2mfd6966b9fb15da05[0m
+[35mroot:dev: [0m
+[35mroot:dev: [0m> root@0.0.1 dev /home/fractal-tess/dev/prisma-turborepo/pnpm-unknow/apps/root
+[35mroot:dev: [0m> vite dev
+[35mroot:dev: [0m
+[35mroot:dev: [0m
+[35mroot:dev: [0m  VITE v3.0.9  ready in 669 ms
+[35mroot:dev: [0m
+[35mroot:dev: [0m  ➜  Local:   http://localhost:5173/
+[35mroot:dev: [0m  ➜  Network: use --host to expose
+[35mroot:dev: [0mmodule is not defined
+[35mroot:dev: [0mReferenceError: module is not defined
+[35mroot:dev: [0m    at /@fs/home/fractal-tess/dev/prisma-turborepo/pnpm-unknow/node_modules/.pnpm/@prisma+client@4.2.1_prisma@4.2.1/node_modules/@prisma/client/index.js:1:14
+[35mroot:dev: [0m    at instantiateModule (file:///home/fractal-tess/dev/prisma-turborepo/pnpm-unknow/node_modules/.pnpm/vite@3.0.9/node_modules/vite/dist/node/chunks/dep-0fc8e132.js:50548:15)

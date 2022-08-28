@@ -1,0 +1,21 @@
+{
+  "name": "prisma-turborepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "lint": "turbo run lint",
+    "dev": "env-cmd turbo run dev"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "turbo": "^1.4.3"
+  }
+}

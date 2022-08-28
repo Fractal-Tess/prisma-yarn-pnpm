@@ -1,0 +1,13 @@
+[35mroot:dev[0m: cache hit, replaying output [2m1edce450d5f2ab29[0m
+[35mroot:dev: [0m$ vite dev
+[35mroot:dev: [0m
+[35mroot:dev: [0m  VITE v3.0.9  ready in 654 ms
+[35mroot:dev: [0m
+[35mroot:dev: [0m  ➜  Local:   http://localhost:5173/
+[35mroot:dev: [0m  ➜  Network: use --host to expose
+[35mroot:dev: [0m{
+[35mroot:dev: [0m  id: 'cl7d8i24b0008pf5cq1mgndbo',
+[35mroot:dev: [0m  email: 'Test123452@prisma.com',
+[35mroot:dev: [0m  username: 'usernametest',
+[35mroot:dev: [0m  password: 'Test123452'
+[35mroot:dev: [0m}
