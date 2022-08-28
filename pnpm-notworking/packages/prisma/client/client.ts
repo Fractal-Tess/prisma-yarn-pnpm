@@ -6,9 +6,9 @@ export const prisma = new PrismaClient();
   await prisma.user.deleteMany({});
   await prisma.user.create({
     data: {
-      email: 'Test123452@prisma.com',
-      password: 'Test123452',
-      username: 'usernametest',
+      email: 'mymail@mail.com',
+      password: 'password',
+      username: 'username',
     },
   });
 
